@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tower of Hanoi", "Assembly-CSharp.csproj", "{F283F1CA-18E8-1746-98F7-F6292E1406A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tower of Hanoi", "Assembly-CSharp-firstpass.csproj", "{3C45C09A-037A-AB1A-CDB2-749638CA3F7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tower of Hanoi", "Assembly-CSharp-Editor-firstpass.csproj", "{2F391387-CC96-2BEF-CE01-F3D5ACF756DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F283F1CA-18E8-1746-98F7-F6292E1406A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F283F1CA-18E8-1746-98F7-F6292E1406A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F283F1CA-18E8-1746-98F7-F6292E1406A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F283F1CA-18E8-1746-98F7-F6292E1406A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C45C09A-037A-AB1A-CDB2-749638CA3F7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C45C09A-037A-AB1A-CDB2-749638CA3F7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C45C09A-037A-AB1A-CDB2-749638CA3F7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C45C09A-037A-AB1A-CDB2-749638CA3F7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F391387-CC96-2BEF-CE01-F3D5ACF756DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F391387-CC96-2BEF-CE01-F3D5ACF756DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F391387-CC96-2BEF-CE01-F3D5ACF756DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F391387-CC96-2BEF-CE01-F3D5ACF756DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
